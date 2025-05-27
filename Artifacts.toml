@@ -1,288 +1,316 @@
 [[muparser]]
 arch = "aarch64"
-git-tree-sha1 = "ae198c0b56cb0506daf062eb31b04627f9f70dda"
+git-tree-sha1 = "5b530f88d5ff92f91eedd363e0ad9cde04eedfdc"
 os = "macos"
 
     [[muparser.download]]
-    sha256 = "1b2f2ddd24b6cc0293f96ab686a7dd2e9c96cf012384051d62924e84a7005fe3"
-    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.2+0/muparser.v2.3.2.aarch64-apple-darwin.tar.gz"
+    sha256 = "5b9f2f32ba7e6ddd344dc58a3d222426844da04cc4a81b932886edb3837f217d"
+    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.5+0/muparser.v2.3.5.aarch64-apple-darwin.tar.gz"
 [[muparser]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0333e265988f4665f3ff036b60e8d8890a5a7339"
+git-tree-sha1 = "54a3f848a7039d2ee2e7afea846312657cb9ab5c"
 libc = "glibc"
 os = "linux"
 
     [[muparser.download]]
-    sha256 = "65309d4ae989b01a605614c6e2b224970f110a1a994eaab71268a77422a38d20"
-    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.2+0/muparser.v2.3.2.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "09703d56d9d0fb2fa4ac3ee2c680ce2f72fac50de02f6ea19b7160ca08455f46"
+    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.5+0/muparser.v2.3.5.aarch64-linux-gnu-cxx03.tar.gz"
 [[muparser]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a5725156c43deefa46c34b8525478151012071de"
+git-tree-sha1 = "21f6c091504997532e753a1939a25d835386b583"
 libc = "glibc"
 os = "linux"
 
     [[muparser.download]]
-    sha256 = "7b9312c86f8a9e96683392c3b47a5cff1141576f2989d0eb9cf4c0affc209d10"
-    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.2+0/muparser.v2.3.2.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "6c523c3ebebd1d0c5fa71fb4ba1b88132048f755d04c74014972524b72b40251"
+    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.5+0/muparser.v2.3.5.aarch64-linux-gnu-cxx11.tar.gz"
 [[muparser]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "21b0d0291330db3cf7574b6bd362f69e4ea36e52"
+git-tree-sha1 = "34e5337897f7b9422f76352fe2e0e3ba16352087"
 libc = "musl"
 os = "linux"
 
     [[muparser.download]]
-    sha256 = "bef087f25dae5e983c3c2b6357452f8b80a9725f25647371037abeca0630b57f"
-    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.2+0/muparser.v2.3.2.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "225919b685f771edf693001a135f4ff48817b10bcebfcd3ff17196a330835450"
+    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.5+0/muparser.v2.3.5.aarch64-linux-musl-cxx03.tar.gz"
 [[muparser]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ff7277b34b3f3321a78f9fcd8ca83c05c1070231"
+git-tree-sha1 = "1adc7ab4ab48f045f23a4283f0bea7dec722428b"
 libc = "musl"
 os = "linux"
 
     [[muparser.download]]
-    sha256 = "d1da847fc23bc7b6d21bc14bd1fe8542464c95f169a2a25ee111674339a01e87"
-    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.2+0/muparser.v2.3.2.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "284c79bda0de5ec4c80841640fd1c1cf0c6248b946067381f6cd4cc6dc0d7eba"
+    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.5+0/muparser.v2.3.5.aarch64-linux-musl-cxx11.tar.gz"
 [[muparser]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "cbc079378e5db787111672628a5134ed5cdda3fe"
-libc = "glibc"
-os = "linux"
-
-    [[muparser.download]]
-    sha256 = "b291d71e77a3b90698ce07c97b9a4769eda431806653d2eeab5a56fabcccc507"
-    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.2+0/muparser.v2.3.2.armv6l-linux-gnueabihf-cxx03.tar.gz"
-[[muparser]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "8f667f5f4b9b1f6404b7a042064e037997984731"
-libc = "glibc"
-os = "linux"
-
-    [[muparser.download]]
-    sha256 = "a7c1fba59fe3f2f2ca87a593d89df2fb5488e3c4aa8cbce4100bbc1f2b1e9051"
-    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.2+0/muparser.v2.3.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
-[[muparser]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "4ef06a4edab9e98be17442b8296c7d67edefcf13"
-libc = "musl"
-os = "linux"
-
-    [[muparser.download]]
-    sha256 = "74a95629eca7e02a188bbb1808c8ffb4d5ddaccb178b8314ec36b1cb2532940b"
-    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.2+0/muparser.v2.3.2.armv6l-linux-musleabihf-cxx03.tar.gz"
-[[muparser]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "3c28560bf256f1a7f16d0eea428f9e7af0220d60"
-libc = "musl"
-os = "linux"
-
-    [[muparser.download]]
-    sha256 = "53bcf880be291bf89d2649d92e1ec7cd8986a6dc34bee6d3523a16368aaaf40c"
-    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.2+0/muparser.v2.3.2.armv6l-linux-musleabihf-cxx11.tar.gz"
-[[muparser]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "aafafa71e84eb1578879efdbfd057f8861276cda"
-libc = "glibc"
-os = "linux"
-
-    [[muparser.download]]
-    sha256 = "ef9250e20762bf64869498a01f5d3955084d760f49ee5f99bac300d7bd6b8662"
-    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.2+0/muparser.v2.3.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
-[[muparser]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "8c480283040d45d5e6014e7a0634b62b914db32d"
-libc = "glibc"
-os = "linux"
-
-    [[muparser.download]]
-    sha256 = "fa1f00a846853d389d6244e508ac6c57fe5a54248f9cf746c01cfffd0c8a1cda"
-    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.2+0/muparser.v2.3.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
-[[muparser]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "ba39668fde626b352c689add74c950c842869424"
-libc = "musl"
-os = "linux"
-
-    [[muparser.download]]
-    sha256 = "82fd08852ad58e55dd1fb80b1faef914d2080b68a164431ac10f4508ab372582"
-    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.2+0/muparser.v2.3.2.armv7l-linux-musleabihf-cxx03.tar.gz"
-[[muparser]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "6a6f46d27a96e26cf5b2729800d1fc5cc8c70382"
-libc = "musl"
-os = "linux"
-
-    [[muparser.download]]
-    sha256 = "ae42d4417d2ec7d98aacf90be509d1d0d274319d1d04a20e00479293965369b1"
-    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.2+0/muparser.v2.3.2.armv7l-linux-musleabihf-cxx11.tar.gz"
-[[muparser]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "c68c56ad51893df8898ff2eaca50ee44f4d26cfe"
-libc = "glibc"
-os = "linux"
-
-    [[muparser.download]]
-    sha256 = "183ba57ace10ae46bf86f1f01b5be926ec6dd34479588a4ed9b23fd62827286a"
-    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.2+0/muparser.v2.3.2.i686-linux-gnu-cxx03.tar.gz"
-[[muparser]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "60532556e7e7a05af1f89452be78f5321f6e656a"
-libc = "glibc"
-os = "linux"
-
-    [[muparser.download]]
-    sha256 = "f0f7137cc2c0522f3e4784fec9c32e0bcddb74447cf2496b7f0265fef83f188e"
-    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.2+0/muparser.v2.3.2.i686-linux-gnu-cxx11.tar.gz"
-[[muparser]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "83ffa6f7490de49bbfc040595de8e9ee180ebdd1"
-libc = "musl"
-os = "linux"
-
-    [[muparser.download]]
-    sha256 = "b63d30bb05c9772d0f524b539d9265dbe2555cf630f4a97401be5ed2efe74dd1"
-    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.2+0/muparser.v2.3.2.i686-linux-musl-cxx03.tar.gz"
-[[muparser]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "2b7dc2a08e55269e374b518096620f2212f572db"
-libc = "musl"
-os = "linux"
-
-    [[muparser.download]]
-    sha256 = "67100b818a3c434222426b950ffeb4b4d0bb041bd4e06732a026dc586ee74baf"
-    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.2+0/muparser.v2.3.2.i686-linux-musl-cxx11.tar.gz"
-[[muparser]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "de2b38e9738561fd211cc85b622be9c26bd2094b"
-os = "windows"
-
-    [[muparser.download]]
-    sha256 = "9c5cd15a45e420d514021b1c400422615a66adb15e04852498e84947b105b0b1"
-    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.2+0/muparser.v2.3.2.i686-w64-mingw32-cxx03.tar.gz"
-[[muparser]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "ddac20e17a396e2c9f90a88428286c4bcde7717f"
-os = "windows"
-
-    [[muparser.download]]
-    sha256 = "e914446d8667e8f5d0074dd689747ca9b653eb29372f84e1c5ca67e9bb982999"
-    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.2+0/muparser.v2.3.2.i686-w64-mingw32-cxx11.tar.gz"
-[[muparser]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "02867ec78316a7ccb2a833ad11ee1db133668681"
-libc = "glibc"
-os = "linux"
-
-    [[muparser.download]]
-    sha256 = "2da944e8531414512599d95d0856bb1041e6d8c380f6734dd3312ea6a5ecd7cd"
-    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.2+0/muparser.v2.3.2.powerpc64le-linux-gnu-cxx03.tar.gz"
-[[muparser]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "d61aa8a670e174a03e30d80afb9359addbe8fcf9"
-libc = "glibc"
-os = "linux"
-
-    [[muparser.download]]
-    sha256 = "a1ac975f366b64c201b486c266e44907aa915cda32fc2b389b67dcf99abd63f4"
-    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.2+0/muparser.v2.3.2.powerpc64le-linux-gnu-cxx11.tar.gz"
-[[muparser]]
-arch = "x86_64"
-git-tree-sha1 = "02f9e77670b9243e45661b6e94861ceeeb06e7bd"
-os = "macos"
-
-    [[muparser.download]]
-    sha256 = "de880d1f213aaeaf73bde21c02246dbcffc100b138b3c2283d2d5ad624c46d82"
-    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.2+0/muparser.v2.3.2.x86_64-apple-darwin.tar.gz"
-[[muparser]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "3590b8775e46fba78bba282c76545078fdd60e0d"
-libc = "glibc"
-os = "linux"
-
-    [[muparser.download]]
-    sha256 = "28b112f9f5e85876ed86adb25f4050c247a63e198768115afc0d6dce231f8f3f"
-    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.2+0/muparser.v2.3.2.x86_64-linux-gnu-cxx03.tar.gz"
-[[muparser]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "61bfea75bf2661b74c9c2f7a27b49ecceb64d5e3"
-libc = "glibc"
-os = "linux"
-
-    [[muparser.download]]
-    sha256 = "088bd0409c05fcccb1aa4cadc8a3075281bb0e5a0131ef23efab78fab60b0783"
-    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.2+0/muparser.v2.3.2.x86_64-linux-gnu-cxx11.tar.gz"
-[[muparser]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "629a91bf4a456372bb8cca17e0e60c983e1d7081"
-libc = "musl"
-os = "linux"
-
-    [[muparser.download]]
-    sha256 = "48c06307ba15a4ac2c10934003e5ede1248a4c29e2ceec2e3013cfbfeec0ac83"
-    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.2+0/muparser.v2.3.2.x86_64-linux-musl-cxx03.tar.gz"
-[[muparser]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "d927348fc83b6d832400b200f6e75e9c49da00a0"
-libc = "musl"
-os = "linux"
-
-    [[muparser.download]]
-    sha256 = "7c2069f0e976eef69437415d6cfd3ee05225aef466ecebce99c6f5007e378093"
-    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.2+0/muparser.v2.3.2.x86_64-linux-musl-cxx11.tar.gz"
-[[muparser]]
-arch = "x86_64"
-git-tree-sha1 = "60398d8fe3285595c822f46afb746737ab5e00ae"
+arch = "aarch64"
+git-tree-sha1 = "c31c042010c524f49172774949701412e8330e74"
 os = "freebsd"
 
     [[muparser.download]]
-    sha256 = "d874fd14a789a0ee0f148b6e368d51ea33eacbec72453f5ad2d1d1099d87717f"
-    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.2+0/muparser.v2.3.2.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "bee5677c3cef8b6bf89a15a9a8e4a696f8548f0b3021de163198d752fc0743ed"
+    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.5+0/muparser.v2.3.5.aarch64-unknown-freebsd.tar.gz"
+[[muparser]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "24e450cd8d0b56661698769494e6a0127187f4b2"
+libc = "glibc"
+os = "linux"
+
+    [[muparser.download]]
+    sha256 = "023e79b4a281d456a53ac44a7e3e494868ed01df8b22488f6846a1f6a2bf6358"
+    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.5+0/muparser.v2.3.5.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[muparser]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6541c85a1479ba401e91ec385becb3c6b5d21949"
+libc = "glibc"
+os = "linux"
+
+    [[muparser.download]]
+    sha256 = "caf49f703ecbfcc7ff0b891872bac97b81a08f9907a7e4a758368246fdb2adf2"
+    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.5+0/muparser.v2.3.5.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[muparser]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "63fddac5fcced01d92164832f53afd23d010c409"
+libc = "musl"
+os = "linux"
+
+    [[muparser.download]]
+    sha256 = "745e6a446bb40dbeea2aca14c5e6d1c2776d21a08d5b110560f9de0472253aa7"
+    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.5+0/muparser.v2.3.5.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[muparser]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a9e1de8873bff479b372096e97d923505adf2f74"
+libc = "musl"
+os = "linux"
+
+    [[muparser.download]]
+    sha256 = "2c3ce2d2a3e50ab57ae47411466357ec8cccb6c8d685cc858edf43d44b36d512"
+    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.5+0/muparser.v2.3.5.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[muparser]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1958c82697cec2579d95dcebc275830ada6619a6"
+libc = "glibc"
+os = "linux"
+
+    [[muparser.download]]
+    sha256 = "1b29bff2359fe93a0184e9d25043b7485c60253abad2ce9cbb003392b1b756c2"
+    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.5+0/muparser.v2.3.5.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[muparser]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6615ebb4e41154959c26d68bf29c8d69c816c830"
+libc = "glibc"
+os = "linux"
+
+    [[muparser.download]]
+    sha256 = "f87ce45f8933bca1632b5323af3e474e4a7f745c8d86cc22b5138a6aeae94619"
+    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.5+0/muparser.v2.3.5.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[muparser]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4b65723c48d3e08287bc7624de7286f312580af5"
+libc = "musl"
+os = "linux"
+
+    [[muparser.download]]
+    sha256 = "93738a1c6ed1eec9f42cae9f85de188d00fc34ce8bd2e1d021ea906b9563488a"
+    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.5+0/muparser.v2.3.5.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[muparser]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "87db20b36bb37820f1099dbfe7c90e4ea6d41bda"
+libc = "musl"
+os = "linux"
+
+    [[muparser.download]]
+    sha256 = "32c02f033d781c3385ff19737f093458e5fbab2bb02a0039ae7afe792c37e04f"
+    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.5+0/muparser.v2.3.5.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[muparser]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "56d9adc86a640189f0747200756501499f326966"
+libc = "glibc"
+os = "linux"
+
+    [[muparser.download]]
+    sha256 = "312c2fc8c661da66bd7e0c10a245828be49b77ea81b89daa5d1a1230b6c93340"
+    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.5+0/muparser.v2.3.5.i686-linux-gnu-cxx03.tar.gz"
+[[muparser]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e7592e60ec0b8b0be50ec44916cc07ad45d525e6"
+libc = "glibc"
+os = "linux"
+
+    [[muparser.download]]
+    sha256 = "06c6d6160e88286c08ae1af47f42f24b4afc34870310af4a1c41e91ed21febd8"
+    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.5+0/muparser.v2.3.5.i686-linux-gnu-cxx11.tar.gz"
+[[muparser]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "27bab8b4bf890511d1043bcb5fca0671a5137f15"
+libc = "musl"
+os = "linux"
+
+    [[muparser.download]]
+    sha256 = "1fd23af27d720335cd4ce30a8d27b0844551f38d5f511d97e1e9792b67949a29"
+    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.5+0/muparser.v2.3.5.i686-linux-musl-cxx03.tar.gz"
+[[muparser]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "813ca3664c13ef151db3f1d0b2f57356c2054f0a"
+libc = "musl"
+os = "linux"
+
+    [[muparser.download]]
+    sha256 = "0ab4e7019c8a0e1b641d111207f9143c623351716bc34b09f9659f871248a127"
+    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.5+0/muparser.v2.3.5.i686-linux-musl-cxx11.tar.gz"
+[[muparser]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fd6f39b0ec52dc3f03e75e154dcc75a4738f3da7"
+os = "windows"
+
+    [[muparser.download]]
+    sha256 = "23b8e5d5ebfd6006f59e28dde48dfdaa1b8ec2f37c9db811255e27d2490a76bb"
+    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.5+0/muparser.v2.3.5.i686-w64-mingw32-cxx03.tar.gz"
+[[muparser]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e3561da5b7f7d6dde4f21a5c5e52956437a8d0e5"
+os = "windows"
+
+    [[muparser.download]]
+    sha256 = "a972b7a6b1ee52ddcba853cc3cdab7c6c2643cd733b9e1ff4608786c8fac0950"
+    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.5+0/muparser.v2.3.5.i686-w64-mingw32-cxx11.tar.gz"
+[[muparser]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3b3801debfbb910a1e6b826d4e21a648d5711ede"
+libc = "glibc"
+os = "linux"
+
+    [[muparser.download]]
+    sha256 = "2a83d69d7fe90778863dbed2a843923853dbc502926f91ac557ec9c325118441"
+    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.5+0/muparser.v2.3.5.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[muparser]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d5635b44a84152a5e1e6906e427bbb5155855538"
+libc = "glibc"
+os = "linux"
+
+    [[muparser.download]]
+    sha256 = "d28e2e47327bb4600c70af1f35282d8d416cb04838387b89fa6320112acc80ef"
+    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.5+0/muparser.v2.3.5.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[muparser]]
+arch = "riscv64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "95bea62bc8494fa0c1322963667d948776ce782c"
+libc = "glibc"
+os = "linux"
+
+    [[muparser.download]]
+    sha256 = "86948e1f0e04210580414b238bb6c7f4f1e1cc764b32490863064f02b6a827c4"
+    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.5+0/muparser.v2.3.5.riscv64-linux-gnu-cxx03.tar.gz"
+[[muparser]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f040d6a09d7ae64bf67feca6287ee83f1c842e98"
+libc = "glibc"
+os = "linux"
+
+    [[muparser.download]]
+    sha256 = "a3c809c96b3b30421471f1f4822d8d9345424a55c90e3cc9a2890a20cab85a3e"
+    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.5+0/muparser.v2.3.5.riscv64-linux-gnu-cxx11.tar.gz"
+[[muparser]]
+arch = "x86_64"
+git-tree-sha1 = "5593ee0d225dad960c2cf1592fa97cfaa467ecc8"
+os = "macos"
+
+    [[muparser.download]]
+    sha256 = "3bc9ba420c3b216434c1115ef74689e12cd095edf2dab1aa3d07feb645fc1fea"
+    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.5+0/muparser.v2.3.5.x86_64-apple-darwin.tar.gz"
 [[muparser]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4f0c849761f176582021f2d353355e44fa04361f"
-os = "windows"
+git-tree-sha1 = "40aa828c6222a50ebf64bce8ffe3c131cfe91ce9"
+libc = "glibc"
+os = "linux"
 
     [[muparser.download]]
-    sha256 = "29c09d564a161711480e77e41119ae114febb98ddb206c9ab570136d63a0cdf9"
-    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.2+0/muparser.v2.3.2.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "617a82ab79b762b1c7e3f13c37b2ab89592ec252f86bd40bc3834486db47960c"
+    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.5+0/muparser.v2.3.5.x86_64-linux-gnu-cxx03.tar.gz"
 [[muparser]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9bc8a4624a902a842495516bf1d6ead8ff6e5f29"
+git-tree-sha1 = "8a7c7dc2c56bbae6e0f0618ce57ae8cb2f936882"
+libc = "glibc"
+os = "linux"
+
+    [[muparser.download]]
+    sha256 = "2dd1f422f738427dac31d74e5ab4cf6daa0016be8d23a1fe42f3e58126f7a69f"
+    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.5+0/muparser.v2.3.5.x86_64-linux-gnu-cxx11.tar.gz"
+[[muparser]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2d840771cf59a9e4c530293d29836a62e4bafa20"
+libc = "musl"
+os = "linux"
+
+    [[muparser.download]]
+    sha256 = "099852f79b4d7f59587b8b989ec1bac1424f0e75a8651d6a6cc6a712220fdaaf"
+    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.5+0/muparser.v2.3.5.x86_64-linux-musl-cxx03.tar.gz"
+[[muparser]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c46ac97c1a5ed429f276537d4d2337c1514c8cdf"
+libc = "musl"
+os = "linux"
+
+    [[muparser.download]]
+    sha256 = "0acda9feb327858387964057cb58b97b0a9cb9e26da2d96f4a91f5d79852650f"
+    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.5+0/muparser.v2.3.5.x86_64-linux-musl-cxx11.tar.gz"
+[[muparser]]
+arch = "x86_64"
+git-tree-sha1 = "6cb9ff825e4a37add609ec3ffc4e18e9e812ad8f"
+os = "freebsd"
+
+    [[muparser.download]]
+    sha256 = "771b45723b3b2e77f39fc50da1c91b4ab94ce6ae78f916c09ade14584f5f7c08"
+    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.5+0/muparser.v2.3.5.x86_64-unknown-freebsd.tar.gz"
+[[muparser]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8b3c703e5a4615ced21b5da3bf86266d5e872b3d"
 os = "windows"
 
     [[muparser.download]]
-    sha256 = "fc1522c1289dd1f4e5f10e14fca50a138a37f5fff1e65537d4897e726a8dd5f9"
-    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.2+0/muparser.v2.3.2.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "4365aeb8112ec4e9990005b05076455f88dacf69c9d0bfda54ef4b2a44c23855"
+    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.5+0/muparser.v2.3.5.x86_64-w64-mingw32-cxx03.tar.gz"
+[[muparser]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7d9cb7b1a204edeb030cf62add8c1bfbd6922f46"
+os = "windows"
+
+    [[muparser.download]]
+    sha256 = "be1ee16e54008536356abbceb81601b29154d6b31dfaef5b28bfacbfd975b9f0"
+    url = "https://github.com/JuliaBinaryWrappers/muparser_jll.jl/releases/download/muparser-v2.3.5+0/muparser.v2.3.5.x86_64-w64-mingw32-cxx11.tar.gz"
